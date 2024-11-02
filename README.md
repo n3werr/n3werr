@@ -1,6 +1,6 @@
 👾 Hi, I’m n3werr
 
-🗺️I'm from Siberia, Russia
+🗺️ I'm from Siberia, Russia
 
 🤖 I’m a beginner developer
 
