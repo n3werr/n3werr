@@ -2,7 +2,7 @@
 
 🗺️ I'm from Siberia, Russia
 
-🤖 I’m a beginner developer
+🤖 I’m a novice developer
 
 🌱 I'm learning Python, JS, HTML5 and CSS
 
