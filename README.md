@@ -2,9 +2,7 @@
 
 🗺️ I'm from Siberia, Russia
 
-🤖 I’m a novice developer
+🌱 I work with Python, Go, JS, HTML5, CSS
 
-🌱 I'm learning Python, Go, Java, JS, HTML5, CSS
-
-- 📌MY TG: @shava_inc
+- 📌MY TG: @dasistn3werr
 - 📌MY VK: @n3werr
