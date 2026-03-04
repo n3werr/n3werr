@@ -61,6 +61,8 @@
 
 <div style="margin-left: 40px;">
   
+<div style="margin-left: 40px;">
+  
 #### 📦 Python-библиотеки, с которыми работаю:
 
 &nbsp;&nbsp;&nbsp;&nbsp;**🌐 Веб-разработка и API**
@@ -97,7 +99,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**🖼️ Графика и изображения**
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pillow" />
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**🎮 GUI и игры**
@@ -106,14 +107,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pygame-FFD966?style=for-the-badge&logo=python&logoColor=black" alt="Pygame" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**📊 Data Science и машинное обучение**
+&nbsp;&nbsp;&nbsp;&nbsp;**📊 Data Science, машинное обучение, ИИ**
 <p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
-
+</div>
 #### ✍️ Редакторы коды:
 <p>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" /></a>
