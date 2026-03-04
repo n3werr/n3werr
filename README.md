@@ -116,6 +116,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 </div>
+
 #### ✍️ Редакторы коды:
 <p>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" /></a>
