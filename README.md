@@ -117,7 +117,7 @@
 </p>
 </div>
 
-#### ✍️ Редакторы коды:
+#### ✍️ Редакторы кода:
 <p>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40" /></a>
