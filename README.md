@@ -1,7 +1,7 @@
 # 👋 Привет, меня зовут n3werr
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Machine+Learning;Web+Scraping;Telegram+bots;GUI;Data+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Developer;Machine+Learning;Web+Scraping;Telegram+bots;GUI;Data+Analysis" alt="Typing SVG" />
 </div>
 
 ---
